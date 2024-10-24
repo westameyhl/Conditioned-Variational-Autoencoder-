@@ -1,5 +1,5 @@
 # Conditioned-Variational-Autoencoder-
-new algorism, related to a published paper
+new algorithm, related to a published paper
 DOI: 10.1201/9781003483755-97
 
 
